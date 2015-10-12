@@ -18,4 +18,4 @@ Start the application:
 
 `java -jar tika-app-1.2.jar`
 
-The application should start. Drag and drop the sample files into the app, the associate data should then appear.
+The application should start. Drag and drop the sample files into the app, the associated data should then appear.
